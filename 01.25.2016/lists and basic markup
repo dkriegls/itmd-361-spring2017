@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>My First Web Page</title>
+	
+</head>
+<body>
+	<header>
+		<h1>My First Professional Resume</h1>
+	</header>
+	<section id="workhistory">
+		<h3>Work History</h3>
+		<ul>
+			<li>Blockbuster video (1995-1997)</li>
+			<li>Robert Taylor Home (2001)</li>
+			<li><a href="www.cvs.com">CVS Pharmacy</a> (2005)</li>
+		</ul>
+	</section>
+	<h2>My First Web Page h2</h2>
+	<h5>My <strong>First</strong> Web Page h5</h5>
+	<p id="prplpara07">Hello World</p>
+	<div id="imagelink">
+		<img src="http://now8news.com/wp-content/uploads/2016/09/LOGO-small.jpg" alt="bozo the clown">
+		<br/>
+		<a href="www.newyorktimes.com" title="NYTlink">New Your Times</a>
+	</div>
+
+	
+	
+</body>
+</html>
