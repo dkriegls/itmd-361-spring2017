@@ -1,0 +1,17 @@
+h1 {
+	color: green;
+	font-size: 200px;
+}
+
+#second-headline {
+	color: blue;
+	font-size: 60px;
+	background-color: #56f442;
+}
+
+.first-para {
+	color:pink;
+	font-size: 24px;
+}
+
+span {color:yellow;}
