@@ -195,7 +195,7 @@ nav {
 }
 
 #calendar #nav-cal a,
-#due_date #nav-due a,
+#due_date #nav-due a, 
 #projects #nav-pro a,
 #policies #nav-pol a {
   color: #142736;
