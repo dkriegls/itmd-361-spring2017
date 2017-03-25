@@ -1,0 +1,95 @@
+#main-header {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f3c5bd+0,e86c57+50,ea2803+51,ff6600+75,c72200+100;Red+Gloss */
+background: #f3c5bd; /* Old browsers */
+background: -moz-linear-gradient(top,  #f3c5bd 0%, #e86c57 50%, #ea2803 51%, #ff6600 75%, #c72200 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #f3c5bd 0%,#e86c57 50%,#ea2803 51%,#ff6600 75%,#c72200 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #f3c5bd 0%,#e86c57 50%,#ea2803 51%,#ff6600 75%,#c72200 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=0 ); /* IE6-9 */
+}
+
+#main-header img.logo {
+	margin: 20px;
+	margin-left: 125px;
+	float: left;
+}
+
+#main-header #company-name {
+	float: left;
+	margin-top: 40px;
+	font-family: 'Fascinate Inline', cursive;
+	font-size: 32px;
+	color: #fff;
+}
+
+#header-container {
+	position: relative;
+}
+
+#logo-link {
+	width: 76px;
+	height: 120px;
+	display: block;
+	position: absolute;
+	top: 20px;
+	left: 40px;
+	background-image: url('../img/logo.png');
+	text-indent: -9999px;
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+#main-navbar {
+	background-color: blue;
+}
+
+#content-wrapper {
+	background-color: #aaa;
+}
+
+#navbar-container {
+	/*text-align: center;*/
+	float: left;
+	width: 100%;
+	position: relative;
+}
+
+#main-navbar {
+	overflow: hidden;
+}
+
+#main-navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	/*display: inline-block;
+	vertical-align: top;*/
+	position: relative;
+	left: 50%;
+	float: left;
+}
+
+#main-navbar ul li {
+	float: left;
+	position: relative;
+	right: 50%;
+	display: block;
+}
+
+#main-navbar ul li a {
+	display: block;
+	padding: 10px 20px;
+	color: #fff;
+	text-decoration: none;
+}
+
+#main-navbar ul li a:hover {
+	background-color: #000;
+}
+
+h1 {
+	text-align: center;
+}
